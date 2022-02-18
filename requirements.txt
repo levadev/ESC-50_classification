@@ -1,0 +1,11 @@
+librosa
+pandas
+csv
+sklearn
+tensorflow
+keras
+warnings
+collections
+matplotlib
+IPython
+numpy
